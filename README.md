@@ -74,7 +74,7 @@ ai-career-twin/
 
 # 🏗️ System Architecture
 
-![Architecture](architecture.png)
+![Architecture](architecture.png.png)
 
 ---
 
@@ -120,13 +120,13 @@ The system provides:
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.png.png)
 
 ---
 
 ## Result Dashboard
 
-![Result](screenshots/result.png)
+![Result](screenshots/result.png.png)
 
 ---
 
