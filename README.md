@@ -93,23 +93,6 @@ ai-career-twin/
 
 ---
 
-# 🧠 Machine Learning Model
-
-### Algorithm Used
-
-- Multinomial Naive Bayes Classifier
-
-### Feature Extraction
-
-- CountVectorizer
-
-### Dataset
-
-A custom dataset containing:
-
-- Skills
-- Career Roles
-
 Example:
 
 | Skills | Role |
@@ -152,7 +135,7 @@ The system provides:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-career-digital-twin.git
+git clone https://github.com/shrusti-m28/ai-career-digital-twin.git
 ```
 
 ---
@@ -224,48 +207,7 @@ Data Analyst
 
 ---
 
-# 🚀 Future Enhancements
-
-- Resume Upload (PDF/DOCX)
-- Resume Parsing using NLP
-- AI Career Chatbot
-- Login & Authentication
-- User Database (SQLite/MySQL)
-- Dashboard Analytics
-- Career Trend Prediction
-- Job Recommendation API Integration
-- Certificate Recommendation System
-- PDF Career Report Generator
-- Email Report Generation
-- Cloud Deployment (Render/AWS/Azure)
-
----
-
-# 🎓 Learning Outcomes
-
-This project demonstrates knowledge of:
-
-- Machine Learning
-- Natural Language Processing (Basic)
-- Flask Web Development
-- Data Processing
-- Feature Engineering
-- Career Recommendation Systems
-- Bootstrap UI Development
-- End-to-End AI Application Development
-
----
 
 # 👩‍💻 Author
 
 **Shrusti M**
-
-AI Career Digital Twin System
-
-Built using Python, Flask, Machine Learning, and Bootstrap.
-
----
-
-# ⭐ If you like this project
-
-Please consider giving it a ⭐ on GitHub!
